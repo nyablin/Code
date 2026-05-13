@@ -1,0 +1,16 @@
+build/
+.vs/
+out/
+*.user
+*.suo
+*.log
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.dSYM/
