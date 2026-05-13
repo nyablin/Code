@@ -19,6 +19,14 @@ cmake -S . -B build
 cmake --build build --config Release
 .\build\Release\OpenGLWorld.exe
 ```
+Или через готовый батник для Visual Studio solution:
+```powershell
+.\build_sln.bat
+```
+Установка инструментов сборки через `winget`:
+```powershell
+.\install_framework.bat
+```
 Для Ninja или Makefile путь обычно будет:
 ```powershell
 .\build\OpenGLWorld.exe
