@@ -182,6 +182,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{C1160F31-9BFB-3508-B7F8-6BEE1D151E27}</Project>
       <Name>glfw</Name>
     </ProjectReference>
+    <ProjectReference Include="D:\Github\Code\build_vs\imgui_glfw_opengl.vcxproj">
+      <Project>{35E4CC06-01E2-3404-AE51-4D261FCDC220}</Project>
+      <Name>imgui_glfw_opengl</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
