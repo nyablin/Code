@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Github/Code/build_vs/cmake_install.cmake",
+		"D:/Github/Code/build_vs/_deps/glfw-build/cmake_install.cmake",
+		"D:/Github/Code/build_vs/_deps/glfw-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

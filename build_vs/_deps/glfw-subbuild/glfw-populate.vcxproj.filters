@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\3cc79d0cd87db53c24fbe51b56b05a3b\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\389436516aac308de53324a2f6f6f05a\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\40b79a2be311b18cb4484c7db0100a51\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Github\Code\build_vs\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{579C08F0-4A8F-34AA-9482-4E3150F65978}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

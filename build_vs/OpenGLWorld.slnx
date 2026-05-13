@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="OpenGLWorld.vcxproj" Id="845e92b7-48be-3561-a2fb-9ab224e71e5a" />
+  <Project Path="ZERO_CHECK.vcxproj" Id="6968d9c7-701f-3309-9fd8-27554f037a75" />
+  <Project Path="_deps/glfw-build/src/glfw.vcxproj" Id="c1160f31-9bfb-3508-b7f8-6bee1d151e27" />
+</Solution>

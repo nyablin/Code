@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/40b79a2be311b18cb4484c7db0100a51/glfw-populate.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/389436516aac308de53324a2f6f6f05a/glfw-populate-complete.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-build.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-configure.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-download.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-install.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-mkdir.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-patch.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-test.rule
+D:/Github/Code/build_vs/_deps/glfw-subbuild/CMakeFiles/3cc79d0cd87db53c24fbe51b56b05a3b/glfw-populate-update.rule

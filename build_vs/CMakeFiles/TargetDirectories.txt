@@ -1,0 +1,10 @@
+D:/Github/Code/build_vs/CMakeFiles/OpenGLWorld.dir
+D:/Github/Code/build_vs/CMakeFiles/INSTALL.dir
+D:/Github/Code/build_vs/CMakeFiles/ALL_BUILD.dir
+D:/Github/Code/build_vs/CMakeFiles/ZERO_CHECK.dir
+D:/Github/Code/build_vs/_deps/glfw-build/CMakeFiles/uninstall.dir
+D:/Github/Code/build_vs/_deps/glfw-build/CMakeFiles/INSTALL.dir
+D:/Github/Code/build_vs/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+D:/Github/Code/build_vs/_deps/glfw-build/src/CMakeFiles/glfw.dir
+D:/Github/Code/build_vs/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+D:/Github/Code/build_vs/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
