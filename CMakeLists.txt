@@ -12,6 +12,12 @@ FetchContent_MakeAvailable(glfw)
 find_package(OpenGL REQUIRED)
 add_executable(OpenGLWorld src/main.cpp)
 target_link_libraries(OpenGLWorld PRIVATE glfw OpenGL::GL)
+set_target_properties(OpenGLWorld PROPERTIES
+RUNTIME_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/bin"
+RUNTIME_OUTPUT_DIRECTORY_DEBUG "${CMAKE_SOURCE_DIR}/bin"
+RUNTIME_OUTPUT_DIRECTORY_RELEASE "${CMAKE_SOURCE_DIR}/bin"
+RUNTIME_OUTPUT_DIRECTORY_MINSIZEREL "${CMAKE_SOURCE_DIR}/bin"
+RUNTIME_OUTPUT_DIRECTORY_RELWITHDEBINFO "${CMAKE_SOURCE_DIR}/bin")
 if(MSVC)
 target_compile_options(OpenGLWorld PRIVATE /W4 /permissive-)
 else()
